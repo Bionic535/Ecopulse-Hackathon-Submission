@@ -25,7 +25,3 @@ streamlit run app/streamlit_app.py
 
 The app will open in your browser at `http://localhost:8501`
 
-# Ecopulse-Hackathon-Submission
-# Ecopulse-Hackathon-Submission
-# Ecopulse-Hackathon-Submission
-# Ecopulse-Hackathon-Submission
