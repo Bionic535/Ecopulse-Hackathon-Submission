@@ -24,7 +24,7 @@ GOOGLE_MAPS_API_KEY = "YOUR_KEY"
 ## Running the App
 
 ```bash
-streamlit streamlit_app.py
+streamlit run streamlit_app.py
 ```
 
 The app will open in your browser at `http://localhost:8501`
