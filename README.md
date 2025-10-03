@@ -16,7 +16,11 @@ A Streamlit web application that displays Western Australia traffic data on an i
 pip install -r requirements.txt
 ```
 
-
+## .env File
+Please create a .env file in your directory with a google maps api key and write it as such
+```bash
+GOOGLE_MAPS_API_KEY = "YOUR_KEY"
+```
 ## Running the App
 
 ```bash
